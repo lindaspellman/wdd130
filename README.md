@@ -1,1 +1,2 @@
-# wdd130
+# wdd130 repository
+Excited for this class! 
