@@ -1,0 +1,35 @@
+body {
+    background-color: pink;
+    /* text-align: center; */
+}
+
+.whole-page {
+    width: 30%;
+    margin: 0 auto;
+}
+
+#title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:white
+}
+
+h1:hover {
+    color:black
+}
+
+p {
+    text-align: center;
+}
+
+#white-text, #large-text-para {
+    color:white
+}
+
+#large-text-para {
+    font-size: 30px;
+}
+
+img {
+    width: 300px;
+}
