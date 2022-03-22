@@ -9,6 +9,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
+
 nav {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
