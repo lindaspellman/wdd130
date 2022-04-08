@@ -8,6 +8,7 @@
 body {
     background-color: white;
     font-family: Lora, Helvetica, sans-serif;
+    /* width: 100%; */
 }
 
 #content {
@@ -142,6 +143,7 @@ footer h3 a:hover {
     text-decoration: none;
 }
 
-/* footer .social img {
-    padding-top: 15px;
-} */
+footer .social img {
+    width: 75px;
+    border-radius: 20%;
+}
